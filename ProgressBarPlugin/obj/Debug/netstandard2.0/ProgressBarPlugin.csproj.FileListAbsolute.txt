@@ -1,0 +1,15 @@
+C:\Users\dev\Desktop\ProgressBarPlugin\ProgressBarPlugin\ProgressBarPlugin\bin\Debug\netstandard2.0\ProgressBarPlugin.deps.json
+C:\Users\dev\Desktop\ProgressBarPlugin\ProgressBarPlugin\ProgressBarPlugin\bin\Debug\netstandard2.0\ProgressBarPlugin.dll
+C:\Users\dev\Desktop\ProgressBarPlugin\ProgressBarPlugin\ProgressBarPlugin\bin\Debug\netstandard2.0\ref\ProgressBarPlugin.dll
+C:\Users\dev\Desktop\ProgressBarPlugin\ProgressBarPlugin\ProgressBarPlugin\bin\Debug\netstandard2.0\ProgressBarPlugin.pdb
+C:\Users\dev\Desktop\ProgressBarPlugin\ProgressBarPlugin\ProgressBarPlugin\obj\Debug\netstandard2.0\ProgressBarPlugin.csproj.AssemblyReference.cache
+C:\Users\dev\Desktop\ProgressBarPlugin\ProgressBarPlugin\ProgressBarPlugin\obj\Debug\netstandard2.0\ProgressBarPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\ProgressBarPlugin\ProgressBarPlugin\ProgressBarPlugin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dev\Desktop\ProgressBarPlugin\ProgressBarPlugin\ProgressBarPlugin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dev\Desktop\ProgressBarPlugin\ProgressBarPlugin\ProgressBarPlugin\obj\Debug\netstandard2.0\ProgressBarPlugin.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\ProgressBarPlugin\ProgressBarPlugin\ProgressBarPlugin\obj\Debug\netstandard2.0\ProgressBarPlugin.AssemblyInfo.cs
+C:\Users\dev\Desktop\ProgressBarPlugin\ProgressBarPlugin\ProgressBarPlugin\obj\Debug\netstandard2.0\ProgressBarPlugin.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\ProgressBarPlugin\ProgressBarPlugin\ProgressBarPlugin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dev\Desktop\ProgressBarPlugin\ProgressBarPlugin\ProgressBarPlugin\obj\Debug\netstandard2.0\ProgressBarPlugin.dll
+C:\Users\dev\Desktop\ProgressBarPlugin\ProgressBarPlugin\ProgressBarPlugin\obj\Debug\netstandard2.0\refint\ProgressBarPlugin.dll
+C:\Users\dev\Desktop\ProgressBarPlugin\ProgressBarPlugin\ProgressBarPlugin\obj\Debug\netstandard2.0\ProgressBarPlugin.pdb
